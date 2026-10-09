@@ -12,7 +12,7 @@
 | :--- | :--- | :--- |
 | **Nanjing University** · Sep 2025–present | Intelligent Science and Technology · undergraduate | **GPA 4.43 / 5.00** |
 
-**Selected coursework:** Introduction to Artificial Intelligence (93/100) · Advanced Programming (91/100) · Matrix Computation and Optimization (89/100)
+**Selected coursework:** Fundamentals of C Programming (100/100) · Introduction to Artificial Intelligence (93/100) · Advanced Programming (91/100) · Matrix Computation and Optimization (89/100)
 
 **Current interests:** Computer vision, image classification, semantic segmentation, and deep learning optimization.
 
